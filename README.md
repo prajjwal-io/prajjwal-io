@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 👋
 
-I am a passionate data scientist and machine learning enthusiast with expertise in applying advanced techniques across diverse domains. Here's a snapshot of my skills and experiences:
+I am a passionate data scientist and machine learning professional with expertise in applying advanced techniques across diverse domains. Here's a snapshot of my skills and experiences:
 
 ## 🔍 Data Science and Machine Learning
 
