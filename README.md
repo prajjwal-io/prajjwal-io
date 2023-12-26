@@ -58,16 +58,5 @@ I am a passionate data scientist and machine learning professional with expertis
 - CSS
 - JavaScript
 
-### Libraries:
-- ![NumPy](https://numpy.org/images/logos/numpy.svg)
-- ![Pandas](https://pandas.pydata.org/docs/_static/pandas.svg)
-- ![Matplotlib](https://matplotlib.org/_static/logo2_compressed.svg)
-- ![Scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
-- ![TensorFlow](https://www.tensorflow.org/images/tf_logo_social.png)
-- ![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png)
-- ![XGBoost](https://xgboost.readthedocs.io/en/latest/_static/logo.png)
-- ![ggplot2](https://ggplot2.tidyverse.org/logo.png)
-- ![Flask](https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png)
-- ![Streamlit](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png)
 
 Feel free to explore my repositories and connect with me. Let's collaborate and learn together! 🌟
