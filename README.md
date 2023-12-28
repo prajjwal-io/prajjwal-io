@@ -57,8 +57,6 @@ I am a passionate data scientist and machine learning professional with expertis
 
 ## Stats
 ![github](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwal-io&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api?username=prajjwal-io&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api?username=prajjwal-io&theme=blue-green)
-![](https://img.shields.io/github/watchers/prajjwal-io/{repo-name}.svg)
+
 
 
