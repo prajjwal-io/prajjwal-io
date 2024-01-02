@@ -48,7 +48,6 @@ I am a passionate data scientist and machine learning professional with expertis
 - Quantum Machine Learning Models ⚛️
 - Quantum Algorithm Implementations 🧠
 
-- 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prajjwal_sv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajjwal-srivastav/)
 
