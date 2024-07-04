@@ -1,6 +1,5 @@
 # Prajjwal's GitHub Profile
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwal-io&orgs=ldai-artpark,One-Health-ARTPARK,NewronAI)
 
 Welcome to my GitHub profile! 👋
 
