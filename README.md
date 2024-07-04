@@ -28,8 +28,8 @@ I am a passionate data scientist and machine learning professional with expertis
 - Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, XGBoost
 - R: ggplot2, caret, randomForest
 - MATLAB: Statistics and Machine Learning Toolbox
-- Web Development: Flask, Streamlit
-
+- Web Development & framework: Sandbox, Streamlit, React, NextJS, Typescript, nginx, nodejs,
+- Cloud: AWS, GCP
 ## 🚀 Projects
 
 ### Finance:
