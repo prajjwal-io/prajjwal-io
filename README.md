@@ -1,7 +1,6 @@
 # Prajjwal's GitHub Profile
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwal-io)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwal-io&layout=compact)
 
 Welcome to my GitHub profile! 👋
 
