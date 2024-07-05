@@ -5,6 +5,20 @@ Welcome to my GitHub profile! 👋
 
 I am a passionate data scientist and machine learning professional with expertise in applying advanced techniques across diverse domains. Here's a snapshot of my skills and experiences:
 
+### Languages:
+- Python 🐍
+- MATLAB 📊
+- R 📈
+- HTML, CSS, JavaScript 💻
+
+### Libraries and Frameworks:
+- Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, XGBoost
+- R: ggplot2, caret, randomForest
+- MATLAB: Statistics and Machine Learning Toolbox
+- Web Development & framework: Sandbox, Streamlit, React, NextJS, Typescript, nginx, nodejs.
+- Cloud: AWS, GCP
+- Database: Microsoft SQL server, Cloud SQL studio, NoSQL.
+
 ## 🔍 Data Science and Machine Learning
 
 ### Domains:
@@ -19,19 +33,6 @@ I am a passionate data scientist and machine learning professional with expertis
 - Deep Learning Architectures 🧠
 - Ensemble and Stacking Methods 🔄
 
-### Languages:
-- Python 🐍
-- MATLAB 📊
-- R 📈
-- HTML, CSS, JavaScript 💻
-
-### Libraries and Frameworks:
-- Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, XGBoost
-- R: ggplot2, caret, randomForest
-- MATLAB: Statistics and Machine Learning Toolbox
-- Web Development & framework: Sandbox, Streamlit, React, NextJS, Typescript, nginx, nodejs.
-- Cloud: AWS, GCP
-- Database : Microsoft SQL server, Cloud SQL studio, NoSQL.
 ## 🚀 Projects
 
 ### Finance:
