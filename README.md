@@ -9,13 +9,13 @@ I am a passionate data scientist and machine learning professional with expertis
 - Python 🐍
 - MATLAB 📊
 - R 📈
-- HTML, CSS, JavaScript 💻
+- JavaScript 💻
 
 ### Libraries and Frameworks:
 - Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, XGBoost
 - R: ggplot2, caret, randomForest
 - MATLAB: Statistics and Machine Learning Toolbox
-- Web Development & framework: Sandbox, Streamlit, React, NextJS, Typescript, nginx, nodejs.
+- Web Development & framework: HTML, CSS, Javascript, Sandbox, Streamlit, React, NextJS, Typescript, nginx, nodejs.
 - Cloud: AWS, GCP
 - Database: Microsoft SQL server, Cloud SQL studio, NoSQL.
 
