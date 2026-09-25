@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prajjwal-srivastav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://prajjwal.codes/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://prajjwalsrivastav.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://twitter.com/prajjwal_sv"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:prajjwal024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=prajjwal-io&style=for-the-badge&color=blue" alt="profile views"/>
@@ -86,18 +86,18 @@ Data Scientist in **GenAI R&D at NICE Actimize**, building production **LLM syst
 
 ---
 
-### 📌 What I've Built
+### 📌 Featured Projects
 
-> Highlights from my work — pin your repos so these link to code. *(swap the `#` links for real repos)*
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| 💸 **[Financial RAG App](https://github.com/prajjwal-io/fin-rag-app)** | Retrieval-augmented Q&A over financial documents — LLM answers grounded in a document knowledge base | Python · LLMs · RAG |
+| 🩺 **[Dengue Forecasting](https://github.com/prajjwal-io/dengue)** | ML models predicting dengue case counts, served as an interactive Streamlit app | Python · scikit-learn · Streamlit |
+| 🧮 **[Sparse Optimization (ISTA)](https://github.com/prajjwal-io/ISTA-Algorithm-in-Python)** | Iterative Shrinkage-Thresholding for sparse signal recovery — the optimization behind my sparse-modeling research | Python · NumPy · Jupyter |
+| 📈 **[Quant Toolkit](https://github.com/prajjwal-io/Python-Quant-project)** | Quantitative finance experiments and backtesting | Python |
 
-| Area | What I did | Stack |
-|------|-----------|-------|
-| **Generative AI @ Fintech** | Enterprise GenAI platform for regulatory reporting on AWS Bedrock — agentic RAG, deterministic validation, cut drafting time from hours to minutes | LLMs, RAG, Bedrock, Python |
-| **LLM Evaluation** | Team evaluation practice with RAGAS + LLM-as-a-judge; benchmarked models on faithfulness & cost, found a materially cheaper model at equal quality | RAGAS, PyTorch, HF |
-| **Text-to-SQL Assistant** | LLM-powered analytics assistant with retrieval, embeddings & grammar-aware SQL generation, served on Vertex AI (70% latency ↓) | LangGraph, FastAPI, GCP |
-| **Scientific ML (Research)** | Sparse identification of nonlinear dynamics (SINDy) for continuous-glucose modeling — MS thesis | PySINDy, NumPy, SciPy |
+> 🏢 My production work in **Generative AI, LLM evaluation, and fraud/financial-crime detection** (NICE Actimize, Artpark @ IISc) is enterprise/closed-source — highlights on my portfolio.
 
-🔗 **More on my [portfolio →](https://prajjwal.codes/)**
+🔗 **More at [prajjwalsrivastav.me →](https://prajjwalsrivastav.me/)**
 
 ---
 
