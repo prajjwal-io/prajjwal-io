@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Prajjwal Srivastav 👋</h1>
 
 <p align="center">
-  <a href="https://prajjwal.codes/">
+  <a href="https://prajjwalsrivastav.me/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+GenAI+%26+LLM+Systems;Turning+research+into+production+AI;RAG+%E2%80%A2+Fine-tuning+%E2%80%A2+Responsible+AI;Fintech+%E2%80%A2+Fraud+%26+Financial-Crime+AI" alt="typing SVG" />
   </a>
 </p>
